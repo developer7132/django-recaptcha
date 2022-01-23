@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-0&y^d_xhm8kys)efx2leebjehfsqdiz3p__#$3va4@7b%a5_v&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "'django-recaptcha.herokuapp.com",
+]
 
 
 # Application definition
