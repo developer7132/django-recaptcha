@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-0&y^d_xhm8kys)efx2leebjehfsqdiz3p__#$3va4@7b%a5_v&
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "'django-recaptcha.herokuapp.com",
+    "django-recaptcha.herokuapp.com",
 ]
 
 
